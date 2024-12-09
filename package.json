@@ -14,11 +14,11 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "config": "^3.3.1",
-    "express": "^4.17.1",
+    "express": "^4.21.2",
     "express-validator": "^6.5.0",
     "gravatar": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.9.17",
+    "mongoose": "^8.8.3",
     "react-uuid": "^1.0.2",
     "request": "^2.88.2"
   },
